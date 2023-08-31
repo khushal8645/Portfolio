@@ -35,12 +35,18 @@ section{
 
 .skill_details{
     display: flex;
-    gap: 1rem;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: baseline;
+    justify-content: center;
+
 }
 
 .skill_details-icon{
     margin-top: 6px;
     color: var(--color-primary-variant);
+    display: flex;
+    flex-direction: column;
 }
 
 .skill_icon{
@@ -53,7 +59,7 @@ section{
 }
 
 small{
-    margin-left: 2rem;
+    margin-left: 5rem;
 }
 
 
@@ -91,6 +97,8 @@ small{
         width: 65%;
         margin-top: 1rem;
     }
-  
+    small{
+        margin-left: 3.8rem;
+    }
     
 }
