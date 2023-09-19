@@ -4,6 +4,7 @@ import IMG1 from "../../todo.png";
 import IMG2 from "../../note.png";
 import IMG3 from "../../wheather.png";
 import IMG4 from "../../snake.png";
+import IMG5 from "../../youtube.png";
 
 const data=[
   {
@@ -29,6 +30,12 @@ const data=[
   image: IMG4,
   title:'Snake Game',
   github: 'https://github.com/khushal8645/Snake_game'
+},
+{
+  id: 5,
+  image: IMG5,
+  title:'Youtube Clone App',
+  github: 'https://github.com/khushal8645/Youtube-clone-app'
 }
 ]
 
