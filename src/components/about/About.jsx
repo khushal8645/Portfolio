@@ -1,6 +1,6 @@
 import React from 'react'
 import "./about.css";
-import Me from "../../img.JPG";
+import Me from "../../img.jpg";
 import {FaAward} from "react-icons/fa";
 import {HiUsers} from "react-icons/hi";
 import {MdLocationPin} from "react-icons/md";
@@ -27,7 +27,7 @@ const About = () => {
           <article className='about_card'>
             <HiUsers className='about_icon'/>
             <h5>Grades</h5>
-            <small>7.9 CGPI</small>
+            <small>7.67 CGPA</small>
           </article>
           <article className='about_card'>
             <MdLocationPin className='about_icon'/>

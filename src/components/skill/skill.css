@@ -30,10 +30,10 @@ section{
 .skill_content{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    row-gap: 2rem;
+    row-gap: 3rem;
 }
 
-.skill_details{
+.skill_detail{
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
