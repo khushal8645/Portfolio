@@ -1,6 +1,6 @@
 import React from 'react'
 import "./about.css";
-import Me from "../../img.jpg";
+import Me from "../../about.jpg";
 import {FaAward} from "react-icons/fa";
 import {HiUsers} from "react-icons/hi";
 import {MdLocationPin} from "react-icons/md";
