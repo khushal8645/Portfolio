@@ -43,11 +43,18 @@ header{
 .me{
 background: linear-gradient(var(--color-primary),transparent) ;
 width: 22rem;
-height: 30rem;
+height: 36rem;
 position: absolute;
 left: calc(50% - 11rem);
 margin-top: 4rem;
 border-radius: 12rem 12rem 0 0;
+
+}
+
+.me img{
+    width: 38rem;
+    height: 29rem;
+    margin-left: -8rem;
 
 }
 
