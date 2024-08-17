@@ -55,7 +55,14 @@ border-radius: 12rem 12rem 0 0;
     width: 38rem;
     height: 29rem;
     margin-left: -8rem;
+}
 
+@media screen and (max-width:768px) {
+    .me img{
+        max-width: 22rem;
+        height: 29rem;
+        margin-left: 0;
+    }
 }
 
 /* scroll */
